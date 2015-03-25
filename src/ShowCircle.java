@@ -6,6 +6,8 @@ import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
 public class ShowCircle extends Application {
+
+   private int x;
   @Override // Override the start method in the Application class
   public void start(Stage primaryStage) {
     // Create a circle and set its properties
